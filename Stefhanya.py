@@ -1,5 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-v = np.random.rand(3)
+v = np.random.rand(720)
 print(v)
